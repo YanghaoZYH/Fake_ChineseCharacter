@@ -3,7 +3,7 @@ Generate (fake) Chinese characters for potential usage .
 
 ##  Examples
 
-![Examples](example.jpg)
+![Examples](fake examples.jpg)
 
 
 
